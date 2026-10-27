@@ -2,8 +2,10 @@
 
 Code for the benchmark experiments in:
 
-> **On the Behavior of Calibration Error Under Rater Disagreement** - MICCAI 2026
-> [Paper](https://papers.miccai.org/miccai-2026/0725-Paper4416.html)
+> **On the Behavior of Calibration Error Under Rater Disagreement**<br>
+> MICCAI 2026
+>
+> [[Paper]](https://papers.miccai.org/miccai-2026/0725-Paper4416.html)
 
 ## What this does
 
